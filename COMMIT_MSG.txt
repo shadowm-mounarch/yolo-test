@@ -1,1 +1,3 @@
-chore: gold 2026
+feat: pair gold #628
+
+Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
