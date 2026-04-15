@@ -1,1 +1,3 @@
-chore: gold 2019
+feat: pair gold #620
+
+Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
